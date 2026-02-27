@@ -1,4 +1,4 @@
-# AI-ML-Mars-Space-Material-Detection-Model Demonstration
+# Mars Space Material Detection and Analysis Model and Workflow Demonstration
 LINK TO AI/ML DEMONSTRATION: https://drive.google.com/file/d/1tpFoaWhUGqJ41XqYYGfDUs9tWxvny-cD/view
 
 #Upload a material photo. The app identifies the type and estimates energy to melt, shred, cut, or heat-seal, then shows kWh totals, a bar chart, and practical reuse ideas for Martian base operations.
