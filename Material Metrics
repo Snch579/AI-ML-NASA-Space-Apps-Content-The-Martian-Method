@@ -1,0 +1,17 @@
+material_metrics = {
+    "aluminum_strut": {"energy_per_kg": 5.0, "co2_per_kg": 3.0},
+    "steel_plate": {"energy_per_kg": 7.0, "co2_per_kg": 4.5},
+    "plastic_sheet": {"energy_per_kg": 2.5, "co2_per_kg": 1.5},
+    "foam_block": {"energy_per_kg": 1.5, "co2_per_kg": 0.8},
+    "fabric": {"energy_per_kg": 1.2, "co2_per_kg": 0.6},
+    "carbon_powder": {"energy_per_kg": 3.0, "co2_per_kg": 1.8},
+    "composite_piece": {"energy_per_kg": 4.0, "co2_per_kg": 2.5},
+    "glass_panel": {"energy_per_kg": 2.8, "co2_per_kg": 1.7},
+    "circuit_board": {"energy_per_kg": 3.5, "co2_per_kg": 2.0},
+    "used_filter": {"energy_per_kg": 1.8, "co2_per_kg": 1.0},
+    "rubber_sheet": {"energy_per_kg": 1.6, "co2_per_kg": 0.9},
+    "paper": {"energy_per_kg": 0.5, "co2_per_kg": 0.3},
+    "cardboard": {"energy_per_kg": 0.6, "co2_per_kg": 0.35},
+    "bubble_wrap": {"energy_per_kg": 1.0, "co2_per_kg": 0.5},
+
+
